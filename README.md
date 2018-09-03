@@ -1,0 +1,1 @@
+This is a fork of the amazing [emacs config](https://github.com/purcell/emacs.d) made by Steve Parcell ([@sanityinc](https://twitter.com/sanityinc)). I've made some modifications to better match my development style, but I highly recommend checking out the original.
